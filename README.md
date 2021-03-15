@@ -26,7 +26,7 @@ Za ljude koji osjećaju usamljenost za vrijeme samoizolacije, Covid centar pruž
 - Praćenje globalne slike svijeta o broju zaraženih
 
 # Procesi
-- Gost(Mogući pacijent): 
+Gost(Mogući pacijent): 
 - Odabir simptoma, opis trenutnog stanja
 - Razgovor za dežurnim doktorom
 - Naručivanje za testiranje
