@@ -27,12 +27,12 @@ Za ljude koji osjećaju usamljenost za vrijeme samoizolacije, Covid centar pruž
 
 # Procesi
 - Gost(Mogući pacijent): 
-  -Odabir simptoma, opis trenutnog stanja
-  -Razgovor za dežurnim doktorom
-  -Naručivanje za testiranje
-  -Primanje rezultata u inbox
-  -Uvid u sve ključne brojeve(Broj zaraženih, izliječenih, hospitalizovanih)
-  -Uvid u načine liječenja
-  -Uvid u sve ključne brojeve vezane za imunizaciju stanovništva(Broj vakcina, broj vakcinisanih broj naručenih za vakcinaciju)
-  -Naručivanje za vakcinaciju
+- Odabir simptoma, opis trenutnog stanja
+- Razgovor za dežurnim doktorom
+- Naručivanje za testiranje
+- Primanje rezultata u inbox
+- Uvid u sve ključne brojeve(Broj zaraženih, izliječenih, hospitalizovanih)
+- Uvid u načine liječenja
+- Uvid u sve ključne brojeve vezane za imunizaciju stanovništva(Broj vakcina, broj vakcinisanih broj naručenih za vakcinaciju)
+- Naručivanje za vakcinaciju
  
