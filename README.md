@@ -1,4 +1,4 @@
-#Tema: Covid Centar
+# Tema: Covid Centar
 # Tim
 - Pozderac Admir
 - Hasanović Ahmedin
